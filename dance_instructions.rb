@@ -12,22 +12,23 @@ def base_footwork
   puts "Finish"
 end
 
-def skip_step(left)
-  puts "Lower"
-  puts "Bouce"
-  puts "Briefly"
-end
-def skip_step(right)
-  puts "Lower"
-  puts "Bounce"
-  puts "Briefly"
-end
-
 def bob_the_reins
   puts "Hold"
   puts "Cross"
   puts "Lift"
   puts "Do"
+end
+
+def skip_step(left)
+  puts "Lower"
+  puts "Bouce"
+  puts "Briefly"
+end
+
+def skip_step(right)
+  puts "Lower"
+  puts "Bounce"
+  puts "Briefly"
 end
 
 def lasso 
