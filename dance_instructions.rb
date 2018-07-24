@@ -8,8 +8,8 @@ end
 
 def base_footwork
   puts "Lift right foot"
-  puts "Return"
-  puts "Finish"
+  puts "Return right foot to the ground"
+  puts "Finishing with a small skip-skip backward"
 end
 
 def bob_the_reins
