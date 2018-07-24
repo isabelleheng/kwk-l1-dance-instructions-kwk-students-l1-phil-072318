@@ -7,7 +7,7 @@ def bust_a_move
 end
 
 def base_footwork
-  puts "Lift"
+  puts "Lift right foot"
   puts "Return"
   puts "Finish"
 end
