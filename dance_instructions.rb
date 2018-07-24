@@ -21,7 +21,7 @@ end
 
 def skip_step(left)
   puts "Lower"
-  puts "Bouce"
+  puts "Bounce"
   puts "Briefly"
 end
 
