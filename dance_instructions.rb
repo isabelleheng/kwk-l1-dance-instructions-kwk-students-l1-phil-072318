@@ -25,12 +25,6 @@ def skip_step(left)
   puts "Briefly"
 end
 
-def skip_step(right)
-  puts "Lower"
-  puts "Bounce"
-  puts "Briefly"
-end
-
 def lasso 
   puts "Start"
   puts "Lift"
